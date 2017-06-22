@@ -1,2 +1,2 @@
 # HopfieldNetwork
-Machine Learning project
+Neural Network project
